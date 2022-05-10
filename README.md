@@ -5,8 +5,8 @@
 - 📫 dsoriano4389@gmail.com
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dsoriano89&show_icons=true&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsoriano89&theme=dracula&layout=compact"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=dsoriano89&show_icons=true&theme=dracula"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsoriano89&theme=dracula&layout=compact"/>
 </div>
 
 <h2>Technologies I work with</h2>
