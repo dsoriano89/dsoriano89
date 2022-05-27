@@ -1,4 +1,4 @@
-### <h2>Hello, I'm Deborah/ はじめまして、デボラ・ソリアーノです 😀</h2> 
+### <h2>Hello, I'm Deborah/ はじめまして、デボラ です 😀</h2> 
 
 - ⛵Recently venturing into the font-end
 - 🌱 Learning JavaScript
