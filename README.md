@@ -1,6 +1,6 @@
 ### <h2>Hello, I'm Deborah/ はじめまして、デボラ です 😀</h2> 
 
-- ⛵Recently venturing into the font-end
+- ⛵Recently venturing into the front-end
 - 🌱 Learning JavaScript
 - 📫 dsoriano4389@gmail.com
 
